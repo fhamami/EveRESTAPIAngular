@@ -1,4 +1,4 @@
-## Depedencies
+## Dependencies
 
 - Python
 - EVE
